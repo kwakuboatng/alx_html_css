@@ -1,0 +1,366 @@
+
+
+header
+{
+    /* border: 1px solid black; */
+    width: 1103.41px;
+    height: 29.46px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu
+{
+    /* border: 1px solid black; */
+    width: 234px;
+    height: 15px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.logo
+{
+    /* border: 1px solid black; */
+}
+
+.main-part
+{
+    width: 1440px;
+    height: 1093px;
+    text-align: center;
+}
+
+.main-part
+{
+    background-image: url("../Assets/images/Object.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    /* border: 1px solid black; */
+}
+
+.main-part-pros div, .main-part-pros
+{
+    /* border: 1px solid black; */
+}
+
+.main-part-pros
+{
+    display: flex;
+    width: 1009px;
+    height: 237px;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.get-schooled
+{
+    font-size:120px ;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.main-part span
+{
+    color: white;
+}
+
+.menu span a
+{
+    color: white;
+}
+
+.learn-from-pros
+{
+    margin-top: 300px;
+    color: white;
+}
+
+h1
+{
+    /* color: white; */
+}
+
+/* .pro1 p
+{
+    width: 150px; 
+    height: 48px;
+} */
+
+.pro1 h1, .pro2 h1, .pro3 h1, .pro4 h1
+{
+    font-size: 18px;
+}
+
+.pro4 .i 
+{
+    width: 150px;
+    height: 48px;
+}
+
+/* testimonials section
+===============================================================> */
+
+.testimonials-container
+{
+    background-color: #C271FF;
+    width: 1440px;
+    height: 392px;
+    padding-top: 210px;
+}
+
+.testimonials
+{
+    /* border: 1px solid black; */
+    width: 943px;
+    height: 160px;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.testimonials-image
+{
+    /* border: 1px solid black; */
+}
+
+.testimonials .text
+{
+    width: 730px;
+    height: 158px;
+    margin-left: 70px;
+}
+
+.pro1 h1, .pro1 em ,.pro2 h1, .pro2 em, .pro3 h1, .pro3 em, .pro4 h1, .i
+{
+    color: white;
+}
+
+/* end of testimonials section
+
+
+/* tutorials section
+===============================================================> */
+
+.part2-tutorials
+{
+    width: 1228px;
+    height: 450px;
+    /* border: 1px solid black; */
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+/* .part2-tutorials div
+{
+    width: 1120px;
+    height: 335px;
+} */
+
+.part2-tutorials div span
+{
+    width: 255px;
+    height: 335px;
+    /* border: 1px solid black; */
+}
+
+
+.tut-container
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.avatar
+{
+    width: 30px;
+    height: 30px;
+}
+
+.most-popular
+{
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 76px;
+}
+.most-popular span
+{
+    color: #C271FF;
+}
+
+/* end of tutorials section */
+
+/* free-membership section 
+===============================================================> */
+
+.free-membership
+{
+    width: 1440px;
+    height: 502px;
+    /* border: 1px solid black; */
+    /* background-color: #071629; */
+    text-align: center;
+}
+
+.dot-container
+{
+    display: flex;
+    justify-content: center;
+    width: 1128px;
+    height: 153px;
+    /* border: 1px solid black; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.free-membership-text
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 32px;
+}
+
+button
+{
+    width: 162px;
+    height: 44px;
+    border-radius: 50px;
+    color: white;
+    background-color: #C271FF;
+}
+
+/* end of free-memberhsip section */
+
+/* FAQ 
+=========================================> */
+
+.FAQ
+{
+    width: 920px;
+    height: 707px;
+    /* border: 1px solid black; */
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+}
+
+.FAQ .text
+{
+    font-size: 60px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.FAQ div
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.FAQ div span
+{
+    width: 350px;
+    height: 242px;
+}
+
+
+
+/* END FAQ */
+
+/* footer 
+===============================================================> */
+
+
+
+footer
+{
+    width: 1440px;
+    height: 249px;
+    /* border: 1px solid black; */
+    display: flex;
+    background-color: #071629;
+}
+
+.copy
+{
+    color: #FFFFFF;
+} 
+
+footer
+{
+    border: 1px solid black;
+    width: 1400px;
+    height: 249px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer div, .copy
+{
+    width: 98px;
+    height: 15px;
+
+}
+
+.copy 
+{
+    color: white;
+    white-space: nowrap;
+    flex-direction: column;
+    margin-top: 200px;
+}
+
+.socialm-logo div
+{
+    width: 30px;
+    height: 30px;
+}
+
+.facebook, .twitter, .instagram
+{
+
+    width: 30px;
+    height: 30px;
+    flex-direction: row;
+    margin-right: 0;
+}
+
+.socialm-logo
+{
+    
+    display: flex;
+    flex-direction: row;
+    width: 130px;
+    height: 30px;
+    justify-content: space-evenly;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+div svg
+{
+    width: 30px;
+    height: 30px;
+    fill: white;
+}
+
+logo
+{
+    margin-top: 110px;
+}
+
+/* footer end */
+
+
+
+
+
